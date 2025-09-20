@@ -1,2 +1,0 @@
-# Steeve_nikhil
-Hackathon 
